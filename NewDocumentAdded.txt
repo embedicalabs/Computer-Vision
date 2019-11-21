@@ -1,4 +1,0 @@
-lorem ipsum dolor sit amet
-
-
-safe to delete this file
